@@ -34,3 +34,5 @@ build/
 
 # Spring Boot configuration containing credentials
 src/main/resources/application.properties
+
+.env
